@@ -16,8 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Prince kumar pk hi this is prince kumar . created a branched named
-          newBranch.
+          hi this is prince kumar . created a branched named newBranch.
         </a>
       </header>
     </div>
